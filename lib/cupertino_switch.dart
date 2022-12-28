@@ -46,7 +46,7 @@ class _CupertinoSwitchDemoState extends State<CupertinoSwitchDemo>
       body: CupertinoPageScaffold(
         navigationBar: CupertinoNavigationBar(
           automaticallyImplyLeading: false,
-          middle: Text('muhammad arief alfaisa'),
+          middle: Text('muhammad arief alfaisa dan samsul bahri'),
         ),
         child: Center(
           child: Semantics(
